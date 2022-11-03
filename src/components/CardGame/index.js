@@ -9,4 +9,4 @@ function CardGame() {
     `
 }
 
-export default CardGame
+export default CardGame;
