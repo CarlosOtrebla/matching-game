@@ -4,5 +4,6 @@
     flex-wrap: wrap;
     gap: 15px 0px;
     justify-content: space-evenly;
+    perspective: 400px;
 
 }
