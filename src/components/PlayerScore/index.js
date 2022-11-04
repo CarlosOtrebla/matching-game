@@ -1,7 +1,7 @@
 import "./style.css"
 
 function PlayerScore() {
-    return`
+    return/*html*/`
     <article class="player-score">
         
         
