@@ -1,11 +1,13 @@
 import "./style.css"
 
-function PlayerScore() {
+function PlayerScore(points=0) {
     return/*html*/`
-    <article class="player-score">
+    <ol data-points="${points}">
+        <li>Um</li>
+        <li>Dois</li>
+        <li>Três</li>
         
-        
-    </article>
+    </ol>
     `
 }
 
