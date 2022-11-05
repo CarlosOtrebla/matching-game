@@ -1,6 +1,6 @@
 import "./style.css"
 
-function ArrowDown(currentPlayer=1){
+function ArrowDown(currentPlayer=2){
     return/* html */`
         <img class="arrow-down"
         data-currentPlayer = ${currentPlayer}
