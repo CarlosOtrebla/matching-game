@@ -12,7 +12,7 @@ function ScoreBoard(){
         ${PlayerName("Carlos")}
         ${PlayerScore(2)}
         ${VsPlayer()}
-        ${PlayerScore(3)}
+        ${PlayerScore(1)}
         ${PlayerName("Solrac")}
     </header>
     `;
